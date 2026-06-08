@@ -26,4 +26,8 @@ Solución al reto [QR Code Component](https://www.frontendmentor.io/challenges/q
 - GitHub: [@Calceto23](https://github.com/Calceto23)
 
 # proyectos-aprendizaje
+<<<<<<< HEAD
 Espacio para guardar mis primeros proyectos de práctica.
+=======
+Espacio para guardar mis primeros proyectos de práctica.
+>>>>>>> a5574d6b92e7ddc7f756556473e193e434b09a4e
