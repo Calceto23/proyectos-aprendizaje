@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QR Code Component
 
 Solución al reto [QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) de Frontend Mentor.
@@ -24,3 +25,7 @@ Solución al reto [QR Code Component](https://www.frontendmentor.io/challenges/q
 
 - Frontend Mentor: [@Calceto23](https://www.frontendmentor.io/profile/Calceto23)
 - GitHub: [@Calceto23](https://github.com/Calceto23)
+=======
+# proyectos-aprendizaje
+Espacio para guardar mis primeros proyectos de práctica.
+>>>>>>> 7a10e1b9d1806b67d3d2a7e278500e0c344a1bd1
